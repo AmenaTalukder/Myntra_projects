@@ -25,4 +25,4 @@ Featured Elements and Descriptions
 <br>User account profile and wishlist icons for easy access to personalized sections.
 <br>Footer with Links:
 <br>Information about online shopping categories, including Men, Women, Kids, and Gift Cards, promoting additional browsing options.
-This layout promotes a user-friendly shopping experience, showcasing essential product information clearly. Let me know if you need any adjustments or additional details!
+This layout promotes a user-friendly shopping experience, showcasing essential product information clearly.
