@@ -1,12 +1,12 @@
 # Myntra_projects
 This is my Myntra Project in javaScript <br/>
-This project will run properly on Microsoft Edge instead of other browser's .
-<br>Key Features
+This project will run properly on Microsoft Edge instead of other browser's .<br>
+<br>Key Features<br>
 <br>Responsive Design: Ready for both desktop and mobile view.Also layout is designed to be responsive, ensuring a smooth user experience across different devices.
 User Interaction: Options for adding items to bags and wishlists.
 Dynamic Pricing: Clearly displays discounts, making it attractive for customers.
 <br>
-Featured Elements and Descriptions
+Featured Elements and Descriptions<br>
 <br>Product Items:
 <br>Each item displays a product image, name, company or brand, rating, pricing details, and a button for adding items to the shopping bag.
 <br>Rating System:
