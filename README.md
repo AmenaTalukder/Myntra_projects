@@ -1,6 +1,7 @@
 # Myntra_projects<br>
 ## Demo
-![Screenshot](https://user-images.githubusercontent.com/"C:\Users\USER\Downloads\Screenshot_1.png")
+![Screenshot](https://github.com/user-attachments/assets/32c87a85-14c9-4717-b6eb-521261440a68)
+
 This is my Myntra Project in javaScript <br/>
 This project will run properly on Microsoft Edge instead of other browser's .<br>
 <br>Key Features<br>
